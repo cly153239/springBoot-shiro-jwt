@@ -5,7 +5,7 @@ plugins {
 
 apply plugin: 'io.spring.dependency-management'
 
-group = 'com.ludi'
+group = 'com.jiangtou'
 version = '1.0'
 sourceCompatibility = '11'
 
